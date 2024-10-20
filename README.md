@@ -1,3 +1,3 @@
-# My Kaggle competitions
+# Kaggle competitions
 
 Yo
